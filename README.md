@@ -1,2 +1,2 @@
-# PiProjects. This direcotry is to keep my RasberryPi Projects
+# PiProjects. This directory is to keep my RasberryPi Projects
 
